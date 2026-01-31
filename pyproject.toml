@@ -1,0 +1,10 @@
+[project]
+name = "django-admin-env-badge"
+version = "0.1.0"
+description = "Visual environment indicators for the Django admin header to distinguish Local, Dev, Stage, and Production."
+readme = "README.md"
+authors = [{ name = "Moataz Fawzy", email = "motazfawzy73@gmail.com" }]
+requires-python = ">=3.13"
+dependencies = [
+    "django>=6.0.1",
+]
