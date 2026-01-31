@@ -60,7 +60,7 @@ Add these settings to your `settings.py`:
 |---------|------|---------|-------------|
 | `ADMIN_ENV_NAME` | `str` | `None` | The environment name to display. Badge is hidden when not set. |
 | `ADMIN_ENV_COLOR` | `str` | `"#22FE00"` | Badge background color (any valid CSS color). |
-| `ADMIN_ENV_ICON` | `str` | `""` | Optional emoji or icon shown before the name. |
+| `ADMIN_ENV_ICON` | `str` | `""` | Optional emoji shown before the name. ⚙️, 🚀, 🛠️|
 
 ## Example
 
