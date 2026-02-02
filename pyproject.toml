@@ -1,6 +1,6 @@
 [project]
 name = "django-admin-env-badge"
-version = "0.1.0"
+version = "0.1.1"
 description = "Visual environment indicators for the Django admin header to distinguish Local, Dev, Stage, and Production."
 readme = "README.md"
 license = "MIT"

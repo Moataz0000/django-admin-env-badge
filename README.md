@@ -1,5 +1,7 @@
 # django-admin-env-badge
 
+[![PyPI](https://img.shields.io/pypi/v/django-admin-env-badge)](https://pypi.org/project/django-admin-env-badge/)
+
 A simple Django app that displays an environment badge in the Django admin — so you always know whether you're on Production, Staging, or Development.
 
 ## Screenshots
