@@ -4,7 +4,7 @@
 
 A simple Django app that displays an environment badge in the Django admin — so you always know whether you're on Production, Staging, or Development.
 
-## Screenshots
+## Demo
 
 **Staging** (light mode)
 
