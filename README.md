@@ -6,15 +6,15 @@ A simple Django app that displays an environment badge in the Django admin — s
 
 **Staging** (light mode)
 
-![Staging badge](src/screen_shots/1.png)
+![Staging badge](https://raw.githubusercontent.com/Moataz0000/django-admin-env-badge/master/src/screen_shots/1.png)
 
 **Development** (dark mode)
 
-![Development badge](src/screen_shots/2.png)
+![Development badge](https://raw.githubusercontent.com/Moataz0000/django-admin-env-badge/master/src/screen_shots/2.png)
 
 **Production** (light mode)
 
-![Production badge](src/screen_shots/3.png)
+![Production badge](https://raw.githubusercontent.com/Moataz0000/django-admin-env-badge/master/src/screen_shots/3.png)
 
 ## Installation
 
